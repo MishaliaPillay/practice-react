@@ -3,1020 +3,1360 @@
     "Entity": "Africa",
     "Code": "",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 7.98931654
+    "Share of global plastics emitted to ocean": 7.98931654,
+    "Latitude": 1.6508,
+    "Longitude": 17.6874
   },
   {
     "Entity": "Albania",
     "Code": "ALB",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.159782247
+    "Share of global plastics emitted to ocean": 0.159782247,
+    "Latitude": 41.153332,
+    "Longitude": 20.168331
   },
   {
     "Entity": "Algeria",
     "Code": "DZA",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.589509708
+    "Share of global plastics emitted to ocean": 0.589509708,
+    "Latitude": 28.033886,
+    "Longitude": 1.659626
   },
   {
     "Entity": "Angola",
     "Code": "AGO",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.087803663
+    "Share of global plastics emitted to ocean": 0.087803663,
+    "Latitude": -11.202692,
+    "Longitude": 17.873887
   },
   {
     "Entity": "Antigua and Barbuda",
     "Code": "ATG",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.000204195
+    "Share of global plastics emitted to ocean": 0.000204195,
+    "Latitude": 17.060816,
+    "Longitude": -61.796428
   },
   {
     "Entity": "Argentina",
     "Code": "ARG",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.422376457
+    "Share of global plastics emitted to ocean": 0.422376457,
+    "Latitude": -38.416097,
+    "Longitude": -63.616672
   },
   {
     "Entity": "Asia",
     "Code": "",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 80.99356991
+    "Share of global plastics emitted to ocean": 80.99356991,
+    "Latitude": 34.0479,
+    "Longitude": 100.6197
   },
   {
     "Entity": "Australia",
     "Code": "AUS",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.003267113
+    "Share of global plastics emitted to ocean": 0.003267113,
+    "Latitude": -25.274398,
+    "Longitude": 133.775136
   },
   {
     "Entity": "Bahamas",
     "Code": "BHS",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.002041946
+    "Share of global plastics emitted to ocean": 0.002041946,
+    "Latitude": 25.03428,
+    "Longitude": -77.39628
   },
   {
     "Entity": "Bahrain",
     "Code": "BHR",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0
+    "Share of global plastics emitted to ocean": 0,
+    "Latitude": 25.930414,
+    "Longitude": 50.637772
   },
   {
     "Entity": "Bangladesh",
     "Code": "BGD",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 2.515677038
+    "Share of global plastics emitted to ocean": 2.515677038,
+    "Latitude": 23.684994,
+    "Longitude": 90.356331
   },
   {
     "Entity": "Barbados",
     "Code": "BRB",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.004594378
+    "Share of global plastics emitted to ocean": 0.004594378,
+    "Latitude": 13.193887,
+    "Longitude": -59.543198
   },
   {
     "Entity": "Belgium",
     "Code": "BEL",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.003471308
+    "Share of global plastics emitted to ocean": 0.003471308,
+    "Latitude": 50.503887,
+    "Longitude": 4.469936
   },
   {
     "Entity": "Belize",
     "Code": "BLZ",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.038184384
+    "Share of global plastics emitted to ocean": 0.038184384,
+    "Latitude": 17.189877,
+    "Longitude": -88.49765
   },
   {
     "Entity": "Benin",
     "Code": "BEN",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.167337446
+    "Share of global plastics emitted to ocean": 0.167337446,
+    "Latitude": 9.30769,
+    "Longitude": 2.315834
   },
   {
     "Entity": "Bosnia and Herzegovina",
     "Code": "BIH",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.000612584
+    "Share of global plastics emitted to ocean": 0.000612584,
+    "Latitude": 43.915886,
+    "Longitude": 17.679076
   },
   {
     "Entity": "Brazil",
     "Code": "BRA",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 3.859175176
+    "Share of global plastics emitted to ocean": 3.859175176,
+    "Latitude": -14.235004,
+    "Longitude": -51.92528
   },
   {
     "Entity": "Brunei",
     "Code": "BRN",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.013681036
+    "Share of global plastics emitted to ocean": 0.013681036,
+    "Latitude": 4.535277,
+    "Longitude": 114.727669
   },
   {
     "Entity": "Bulgaria",
     "Code": "BGR",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.000714681
+    "Share of global plastics emitted to ocean": 0.000714681,
+    "Latitude": 42.733883,
+    "Longitude": 25.48583
   },
   {
     "Entity": "Burkina Faso",
     "Code": "BFA",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0
+    "Share of global plastics emitted to ocean": 0,
+    "Latitude": 12.238333,
+    "Longitude": -1.561593
   },
   {
     "Entity": "Cambodia",
     "Code": "KHM",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.113634275
+    "Share of global plastics emitted to ocean": 0.113634275,
+    "Latitude": 12.565679,
+    "Longitude": 104.990963
   },
   {
     "Entity": "Cameroon",
     "Code": "CMR",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 1.0894801
+    "Share of global plastics emitted to ocean": 1.0894801,
+    "Latitude": 7.369722,
+    "Longitude": 12.354722
   },
   {
     "Entity": "Canada",
     "Code": "CAN",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.024299153
+    "Share of global plastics emitted to ocean": 0.024299153,
+    "Latitude": 56.130366,
+    "Longitude": -106.346771
   },
   {
     "Entity": "Cape Verde",
     "Code": "CPV",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0
+    "Share of global plastics emitted to ocean": 0,
+    "Latitude": 16.002082,
+    "Longitude": -24.013197
   },
   {
     "Entity": "Chile",
     "Code": "CHL",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.032875325
+    "Share of global plastics emitted to ocean": 0.032875325,
+    "Latitude": -35.675147,
+    "Longitude": -71.542969
   },
   {
     "Entity": "China",
     "Code": "CHN",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 7.218992545
+    "Share of global plastics emitted to ocean": 7.218992545,
+    "Latitude": 35.86166,
+    "Longitude": 104.195397
   },
   {
     "Entity": "Colombia",
     "Code": "COL",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.044003929
+    "Share of global plastics emitted to ocean": 0.044003929,
+    "Latitude": 4.570868,
+    "Longitude": -74.297333
   },
   {
     "Entity": "Comoros",
     "Code": "COM",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0
+    "Share of global plastics emitted to ocean": 0,
+    "Latitude": -11.875001,
+    "Longitude": 43.872219
   },
   {
     "Entity": "Congo",
     "Code": "COG",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.069017763
+    "Share of global plastics emitted to ocean": 0.069017763,
+    "Latitude": -0.228021,
+    "Longitude": 15.827659
   },
   {
     "Entity": "Costa Rica",
     "Code": "CRI",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.045943777
+    "Share of global plastics emitted to ocean": 0.045943777,
+    "Latitude": 9.748917,
+    "Longitude": -83.753428
   },
   {
     "Entity": "Cote d'Ivoire",
     "Code": "CIV",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.488433399
+    "Share of global plastics emitted to ocean": 0.488433399,
+    "Latitude": 7.539989,
+    "Longitude": -5.54708
   },
   {
     "Entity": "Croatia",
     "Code": "HRV",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.022869791
+    "Share of global plastics emitted to ocean": 0.022869791,
+    "Latitude": 45.1,
+    "Longitude": 15.2
   },
   {
     "Entity": "Cyprus",
     "Code": "CYP",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.000306292
+    "Share of global plastics emitted to ocean": 0.000306292,
+    "Latitude": 35.126413,
+    "Longitude": 33.429859
   },
   {
     "Entity": "Democratic Republic of Congo",
     "Code": "COD",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.042880859
+    "Share of global plastics emitted to ocean": 0.042880859,
+    "Latitude": -4.038333,
+    "Longitude": 21.758664
   },
   {
     "Entity": "Denmark",
     "Code": "DNK",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.000918876
+    "Share of global plastics emitted to ocean": 0.000918876,
+    "Latitude": 56.26392,
+    "Longitude": 9.501785
   },
   {
     "Entity": "Djibouti",
     "Code": "DJI",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.000408389
+    "Share of global plastics emitted to ocean": 0.000408389,
+    "Latitude": 11.825138,
+    "Longitude": 42.590275
   },
   {
     "Entity": "Dominica",
     "Code": "DMA",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.005411156
+    "Share of global plastics emitted to ocean": 0.005411156,
+    "Latitude": 15.414999,
+    "Longitude": -61.370976
   },
   {
     "Entity": "Dominican Republic",
     "Code": "DOM",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.640762544
+    "Share of global plastics emitted to ocean": 0.640762544,
+    "Latitude": 18.735693,
+    "Longitude": -70.162651
   },
   {
-    "Entity": "EU-27",
+    "Entity": "",
     "Code": "",
-    "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.220223838
+    "Year": "",
+    "Share of global plastics emitted to ocean": "",
+    "Latitude": "",
+    "Longitude": ""
   },
   {
     "Entity": "East Timor",
     "Code": "TLS",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.072999557
+    "Share of global plastics emitted to ocean": 0.072999557,
+    "Latitude": -8.794722,
+    "Longitude": 126.13917
   },
   {
     "Entity": "Ecuador",
     "Code": "ECU",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.115982513
+    "Share of global plastics emitted to ocean": 0.115982513,
+    "Latitude": -1.831239,
+    "Longitude": -78.183406
   },
   {
     "Entity": "Egypt",
     "Code": "EGY",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.252282385
+    "Share of global plastics emitted to ocean": 0.252282385,
+    "Latitude": 26.820553,
+    "Longitude": 30.802498
   },
   {
     "Entity": "El Salvador",
     "Code": "SLV",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.082494604
+    "Share of global plastics emitted to ocean": 0.082494604,
+    "Latitude": 13.794185,
+    "Longitude": -88.89653
   },
   {
     "Entity": "Equatorial Guinea",
     "Code": "GNQ",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.041349399
+    "Share of global plastics emitted to ocean": 0.041349399,
+    "Latitude": 1.650801,
+    "Longitude": 10.267895
   },
   {
     "Entity": "Eritrea",
     "Code": "ERI",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.00490067
+    "Share of global plastics emitted to ocean": 0.00490067,
+    "Latitude": 15.179384,
+    "Longitude": 39.782334
   },
   {
     "Entity": "Estonia",
     "Code": "EST",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.001225167
+    "Share of global plastics emitted to ocean": 0.001225167,
+    "Latitude": 58.595272,
+    "Longitude": 25.013607
   },
   {
     "Entity": "Europe",
     "Code": "",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.595431351
+    "Share of global plastics emitted to ocean": 0.595431351,
+    "Latitude": 54,
+    "Longitude": 25
   },
   {
     "Entity": "Fiji",
     "Code": "FJI",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.037265508
+    "Share of global plastics emitted to ocean": 0.037265508,
+    "Latitude": -16.578193,
+    "Longitude": 179.414413
   },
   {
     "Entity": "Finland",
     "Code": "FIN",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0
+    "Share of global plastics emitted to ocean": 0,
+    "Latitude": 61.92411,
+    "Longitude": 25.748151
   },
   {
     "Entity": "France",
     "Code": "FRA",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.023992861
+    "Share of global plastics emitted to ocean": 0.023992861,
+    "Latitude": 46.227638,
+    "Longitude": 2.213749
   },
   {
     "Entity": "French Guiana",
     "Code": "GUF",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.000714681
+    "Share of global plastics emitted to ocean": 0.000714681,
+    "Latitude": 3.933889,
+    "Longitude": -53.125782
   },
   {
     "Entity": "Gabon",
     "Code": "GAB",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.045433291
+    "Share of global plastics emitted to ocean": 0.045433291,
+    "Latitude": -0.803689,
+    "Longitude": 11.609444
   },
   {
     "Entity": "Gambia",
     "Code": "GMB",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.042982956
+    "Share of global plastics emitted to ocean": 0.042982956,
+    "Latitude": 13.443182,
+    "Longitude": -15.310139
   },
   {
     "Entity": "Georgia",
     "Code": "GEO",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.000306292
+    "Share of global plastics emitted to ocean": 0.000306292,
+    "Latitude": 42.315407,
+    "Longitude": 43.356892
   },
   {
     "Entity": "Germany",
     "Code": "DEU",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.013681036
+    "Share of global plastics emitted to ocean": 0.013681036,
+    "Latitude": 51.165691,
+    "Longitude": 10.451526
   },
   {
     "Entity": "Ghana",
     "Code": "GHA",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.427277127
+    "Share of global plastics emitted to ocean": 0.427277127,
+    "Latitude": 7.946527,
+    "Longitude": -1.023194
   },
   {
     "Entity": "Greece",
     "Code": "GRC",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.022053013
+    "Share of global plastics emitted to ocean": 0.022053013,
+    "Latitude": 39.074208,
+    "Longitude": 21.824312
   },
   {
     "Entity": "Grenada",
     "Code": "GRD",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.013272647
+    "Share of global plastics emitted to ocean": 0.013272647,
+    "Latitude": 12.262776,
+    "Longitude": -61.604171
   },
   {
     "Entity": "Guadeloupe",
     "Code": "GLP",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.000408389
+    "Share of global plastics emitted to ocean": 0.000408389,
+    "Latitude": 16.995971,
+    "Longitude": -62.067641
   },
   {
     "Entity": "Guatemala",
     "Code": "GTM",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.729178791
+    "Share of global plastics emitted to ocean": 0.729178791,
+    "Latitude": 15.783471,
+    "Longitude": -90.230759
   },
   {
     "Entity": "Guinea",
     "Code": "GIN",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.239622322
+    "Share of global plastics emitted to ocean": 0.239622322,
+    "Latitude": 9.945587,
+    "Longitude": -9.696645
   },
   {
     "Entity": "Guinea-Bissau",
     "Code": "GNB",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.025218029
+    "Share of global plastics emitted to ocean": 0.025218029,
+    "Latitude": 11.803749,
+    "Longitude": -15.180413
   },
   {
     "Entity": "Guyana",
     "Code": "GUY",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.127213214
+    "Share of global plastics emitted to ocean": 0.127213214,
+    "Latitude": 4.860416,
+    "Longitude": -58.93018
   },
   {
     "Entity": "Haiti",
     "Code": "HTI",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.70743207
+    "Share of global plastics emitted to ocean": 0.70743207,
+    "Latitude": 18.971187,
+    "Longitude": -72.285215
   },
   {
     "Entity": "Honduras",
     "Code": "HND",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.24870898
+    "Share of global plastics emitted to ocean": 0.24870898,
+    "Latitude": 15.199999,
+    "Longitude": -86.241905
   },
   {
     "Entity": "Hong Kong",
     "Code": "HKG",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.011434896
+    "Share of global plastics emitted to ocean": 0.011434896,
+    "Latitude": 22.396428,
+    "Longitude": 114.109497
   },
   {
     "Entity": "Iceland",
     "Code": "ISL",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0
+    "Share of global plastics emitted to ocean": 0,
+    "Latitude": 64.963051,
+    "Longitude": -19.020835
   },
   {
     "Entity": "India",
     "Code": "IND",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 12.91663349
+    "Share of global plastics emitted to ocean": 12.91663349,
+    "Latitude": 20.593684,
+    "Longitude": 78.96288
   },
   {
     "Entity": "Indonesia",
     "Code": "IDN",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 5.751446208
+    "Share of global plastics emitted to ocean": 5.751446208,
+    "Latitude": -0.789275,
+    "Longitude": 113.921327
   },
   {
     "Entity": "Iran",
     "Code": "IRN",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.094746278
+    "Share of global plastics emitted to ocean": 0.094746278,
+    "Latitude": 32.427908,
+    "Longitude": 53.688046
   },
   {
     "Entity": "Iraq",
     "Code": "IRQ",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.006840518
+    "Share of global plastics emitted to ocean": 0.006840518,
+    "Latitude": 33.223191,
+    "Longitude": 43.679291
   },
   {
     "Entity": "Ireland",
     "Code": "IRL",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.011741187
+    "Share of global plastics emitted to ocean": 0.011741187,
+    "Latitude": 53.41291,
+    "Longitude": -8.24389
   },
   {
     "Entity": "Israel",
     "Code": "ISR",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.00336921
+    "Share of global plastics emitted to ocean": 0.00336921,
+    "Latitude": 31.046051,
+    "Longitude": 34.851612
   },
   {
     "Entity": "Italy",
     "Code": "ITA",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.042268275
+    "Share of global plastics emitted to ocean": 0.042268275,
+    "Latitude": 41.87194,
+    "Longitude": 12.56738
   },
   {
     "Entity": "Jamaica",
     "Code": "JAM",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.238295057
+    "Share of global plastics emitted to ocean": 0.238295057,
+    "Latitude": 18.109581,
+    "Longitude": -77.297508
   },
   {
     "Entity": "Japan",
     "Code": "JPN",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.187348513
+    "Share of global plastics emitted to ocean": 0.187348513,
+    "Latitude": 36.204824,
+    "Longitude": 138.252924
   },
   {
     "Entity": "Jordan",
     "Code": "JOR",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.000102097
+    "Share of global plastics emitted to ocean": 0.000102097,
+    "Latitude": 30.585164,
+    "Longitude": 36.238414
   },
   {
     "Entity": "Kazakhstan",
     "Code": "KAZ",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.001327265
+    "Share of global plastics emitted to ocean": 0.001327265,
+    "Latitude": 48.019573,
+    "Longitude": 66.923684
   },
   {
     "Entity": "Kenya",
     "Code": "KEN",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.026443196
+    "Share of global plastics emitted to ocean": 0.026443196,
+    "Latitude": -0.023559,
+    "Longitude": 37.906193
   },
   {
     "Entity": "Kiribati",
     "Code": "KIR",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0
+    "Share of global plastics emitted to ocean": 0,
+    "Latitude": -3.370417,
+    "Longitude": -168.734039
   },
   {
     "Entity": "Kuwait",
     "Code": "KWT",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.000714681
+    "Share of global plastics emitted to ocean": 0.000714681,
+    "Latitude": 29.31166,
+    "Longitude": 47.481766
   },
   {
     "Entity": "Latvia",
     "Code": "LVA",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.000918876
+    "Share of global plastics emitted to ocean": 0.000918876,
+    "Latitude": 56.879635,
+    "Longitude": 24.603189
   },
   {
     "Entity": "Lebanon",
     "Code": "LBN",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.069834541
+    "Share of global plastics emitted to ocean": 0.069834541,
+    "Latitude": 33.854721,
+    "Longitude": 35.862285
   },
   {
     "Entity": "Lesotho",
     "Code": "LSO",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0
+    "Share of global plastics emitted to ocean": 0,
+    "Latitude": -29.609988,
+    "Longitude": 28.233608
   },
   {
     "Entity": "Liberia",
     "Code": "LBR",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.269332631
+    "Share of global plastics emitted to ocean": 0.269332631,
+    "Latitude": 6.428055,
+    "Longitude": -9.429499
   },
   {
     "Entity": "Libya",
     "Code": "LBY",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.089743511
+    "Share of global plastics emitted to ocean": 0.089743511,
+    "Latitude": 26.3351,
+    "Longitude": 17.228331
   },
   {
     "Entity": "Lithuania",
     "Code": "LTU",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.000714681
+    "Share of global plastics emitted to ocean": 0.000714681,
+    "Latitude": 55.169438,
+    "Longitude": 23.881275
   },
   {
     "Entity": "Macau",
     "Code": "",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.034815173
+    "Share of global plastics emitted to ocean": 0.034815173,
+    "Latitude": 22.198745,
+    "Longitude": 113.543873
   },
   {
     "Entity": "Madagascar",
     "Code": "MDG",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.079125394
+    "Share of global plastics emitted to ocean": 0.079125394,
+    "Latitude": -18.766947,
+    "Longitude": 46.869107
   },
   {
     "Entity": "Malaysia",
     "Code": "MYS",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 7.463107147
+    "Share of global plastics emitted to ocean": 7.463107147,
+    "Latitude": 4.210484,
+    "Longitude": 101.975766
   },
   {
     "Entity": "Maldives",
     "Code": "MDV",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0
+    "Share of global plastics emitted to ocean": 0,
+    "Latitude": 3.202778,
+    "Longitude": 73.22068
   },
   {
     "Entity": "Malta",
     "Code": "MLT",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0
+    "Share of global plastics emitted to ocean": 0,
+    "Latitude": 35.937496,
+    "Longitude": 14.375416
   },
   {
     "Entity": "Marshall Islands",
     "Code": "MHL",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0
+    "Share of global plastics emitted to ocean": 0,
+    "Latitude": 7.131474,
+    "Longitude": 171.184478
   },
   {
     "Entity": "Martinique",
     "Code": "MTQ",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.00224614
+    "Share of global plastics emitted to ocean": 0.00224614,
+    "Latitude": 14.641528,
+    "Longitude": -61.024174
   },
   {
     "Entity": "Mauritania",
     "Code": "MRT",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.012966355
+    "Share of global plastics emitted to ocean": 0.012966355,
+    "Latitude": 21.00789,
+    "Longitude": -10.940835
   },
   {
     "Entity": "Mauritius",
     "Code": "MUS",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0
+    "Share of global plastics emitted to ocean": 0,
+    "Latitude": -20.348404,
+    "Longitude": 57.552152
   },
   {
     "Entity": "Mexico",
     "Code": "MEX",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.358565656
+    "Share of global plastics emitted to ocean": 0.358565656,
+    "Latitude": 23.634501,
+    "Longitude": -102.552784
   },
   {
     "Entity": "Micronesia",
     "Code": "",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.003777599
+    "Share of global plastics emitted to ocean": 0.003777599,
+    "Latitude": 7.425554,
+    "Longitude": 150.550812
   },
   {
     "Entity": "Monaco",
     "Code": "MCO",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0
+    "Share of global plastics emitted to ocean": 0,
+    "Latitude": 43.750298,
+    "Longitude": 7.412841
   },
   {
     "Entity": "Montenegro",
     "Code": "MNE",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0
+    "Share of global plastics emitted to ocean": 0,
+    "Latitude": 42.708678,
+    "Longitude": 19.37439
   },
   {
     "Entity": "Morocco",
     "Code": "MAR",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.183775108
+    "Share of global plastics emitted to ocean": 0.183775108,
+    "Latitude": 31.791702,
+    "Longitude": -7.09262
   },
   {
     "Entity": "Mozambique",
     "Code": "MOZ",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.259735486
+    "Share of global plastics emitted to ocean": 0.259735486,
+    "Latitude": -18.665695,
+    "Longitude": 35.529562
   },
   {
     "Entity": "Myanmar",
     "Code": "MMR",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.259735486
+    "Share of global plastics emitted to ocean": 0.259735486,
+    "Latitude": 21.913965,
+    "Longitude": 95.956223
   },
   {
     "Entity": "Namibia",
     "Code": "NAM",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.000204195
+    "Share of global plastics emitted to ocean": 0.000204195,
+    "Latitude": -22.95764,
+    "Longitude": 18.49041
   },
   {
     "Entity": "Netherlands",
     "Code": "NLD",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.027668364
+    "Share of global plastics emitted to ocean": 0.027668364,
+    "Latitude": 52.132633,
+    "Longitude": 5.291266
   },
   {
     "Entity": "New Zealand",
     "Code": "NZL",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.006942615
+    "Share of global plastics emitted to ocean": 0.006942615,
+    "Latitude": -40.900557,
+    "Longitude": 174.885971
   },
   {
     "Entity": "Nicaragua",
     "Code": "NIC",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.149572519
+    "Share of global plastics emitted to ocean": 0.149572519,
+    "Latitude": 12.865416,
+    "Longitude": -85.207229
   },
   {
     "Entity": "Nigeria",
     "Code": "NGA",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 1.903093343
+    "Share of global plastics emitted to ocean": 1.903093343,
+    "Latitude": 9.081999,
+    "Longitude": 8.675277
   },
   {
     "Entity": "North America",
     "Code": "",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 4.499120942
+    "Share of global plastics emitted to ocean": 4.499120942,
+    "Latitude": 45,
+    "Longitude": -100
   },
   {
     "Entity": "North Korea",
     "Code": "PRK",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.005104864
+    "Share of global plastics emitted to ocean": 0.005104864,
+    "Latitude": 40.339852,
+    "Longitude": 127.510093
   },
   {
     "Entity": "Norway",
     "Code": "NOR",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0
+    "Share of global plastics emitted to ocean": 0,
+    "Latitude": 60.472024,
+    "Longitude": 8.468946
   },
   {
     "Entity": "Oceania",
     "Code": "",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.370715232
+    "Share of global plastics emitted to ocean": 0.370715232,
+    "Latitude": -25,
+    "Longitude": 135
   },
   {
     "Entity": "Oman",
     "Code": "OMN",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.000102097
+    "Share of global plastics emitted to ocean": 0.000102097,
+    "Latitude": 21.512583,
+    "Longitude": 55.923255
   },
   {
     "Entity": "Pakistan",
     "Code": "PAK",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.089130928
+    "Share of global plastics emitted to ocean": 0.089130928,
+    "Latitude": 30.375321,
+    "Longitude": 69.345116
   },
   {
     "Entity": "Palau",
     "Code": "PLW",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.000714681
+    "Share of global plastics emitted to ocean": 0.000714681,
+    "Latitude": 7.51498,
+    "Longitude": 134.58252
   },
   {
     "Entity": "Palestine",
     "Code": "PSE",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.012047479
+    "Share of global plastics emitted to ocean": 0.012047479,
+    "Latitude": 31.952162,
+    "Longitude": 35.233154
   },
   {
     "Entity": "Panama",
     "Code": "PAN",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.534683468
+    "Share of global plastics emitted to ocean": 0.534683468,
+    "Latitude": 8.537981,
+    "Longitude": -80.782127
   },
   {
     "Entity": "Papua New Guinea",
     "Code": "PNG",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.312315587
+    "Share of global plastics emitted to ocean": 0.312315587,
+    "Latitude": -6.314993,
+    "Longitude": 143.95555
   },
   {
     "Entity": "Peru",
     "Code": "PER",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.026443196
+    "Share of global plastics emitted to ocean": 0.026443196,
+    "Latitude": -9.189967,
+    "Longitude": -75.015152
   },
   {
     "Entity": "Philippines",
     "Code": "PHL",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 36.38451062
+    "Share of global plastics emitted to ocean": 36.38451062,
+    "Latitude": 12.879721,
+    "Longitude": 121.774017
   },
   {
     "Entity": "Poland",
     "Code": "POL",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.002960821
+    "Share of global plastics emitted to ocean": 0.002960821,
+    "Latitude": 51.919438,
+    "Longitude": 19.145136
   },
   {
     "Entity": "Portugal",
     "Code": "PRT",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.007759393
+    "Share of global plastics emitted to ocean": 0.007759393,
+    "Latitude": 39.399872,
+    "Longitude": -8.224454
   },
   {
     "Entity": "Puerto Rico",
     "Code": "PRI",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.007248907
+    "Share of global plastics emitted to ocean": 0.007248907,
+    "Latitude": 18.220833,
+    "Longitude": -66.590149
   },
   {
     "Entity": "Qatar",
     "Code": "QAT",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0
+    "Share of global plastics emitted to ocean": 0,
+    "Latitude": 25.354826,
+    "Longitude": 51.183884
   },
   {
     "Entity": "Reunion",
     "Code": "REU",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0
+    "Share of global plastics emitted to ocean": 0,
+    "Latitude": -21.115141,
+    "Longitude": 55.536384
   },
   {
     "Entity": "Romania",
     "Code": "ROU",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.008167783
+    "Share of global plastics emitted to ocean": 0.008167783,
+    "Latitude": 45.943161,
+    "Longitude": 24.96676
   },
   {
     "Entity": "Russia",
     "Code": "RUS",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.055336727
+    "Share of global plastics emitted to ocean": 0.055336727,
+    "Latitude": 61.52401,
+    "Longitude": 105.318756
   },
   {
     "Entity": "Saint Kitts and Nevis",
     "Code": "KNA",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.000102097
+    "Share of global plastics emitted to ocean": 0.000102097,
+    "Latitude": 17.357822,
+    "Longitude": -62.782998
   },
   {
     "Entity": "Saint Lucia",
     "Code": "LCA",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.04584168
+    "Share of global plastics emitted to ocean": 0.04584168,
+    "Latitude": 13.909444,
+    "Longitude": -60.978893
   },
   {
     "Entity": "Saint Martin",
     "Code": "",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0
+    "Share of global plastics emitted to ocean": 0,
+    "Latitude": 46.941936,
+    "Longitude": -56.27111
   },
   {
     "Entity": "Saint Vincent and the Grenadines",
     "Code": "VCT",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.00826988
+    "Share of global plastics emitted to ocean": 0.00826988,
+    "Latitude": 12.984305,
+    "Longitude": -61.287228
   },
   {
     "Entity": "Samoa",
     "Code": "WSM",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0
+    "Share of global plastics emitted to ocean": 0,
+    "Latitude": -13.759029,
+    "Longitude": -172.104629
   },
   {
     "Entity": "Sao Tome and Principe",
     "Code": "STP",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.007861491
+    "Share of global plastics emitted to ocean": 0.007861491,
+    "Latitude": 0.18636,
+    "Longitude": 6.613081
   },
   {
     "Entity": "Saudi Arabia",
     "Code": "SAU",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.000306292
+    "Share of global plastics emitted to ocean": 0.000306292,
+    "Latitude": 23.885942,
+    "Longitude": 45.079162
   },
   {
     "Entity": "Senegal",
     "Code": "SEN",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.017254441
+    "Share of global plastics emitted to ocean": 0.017254441,
+    "Latitude": 14.497401,
+    "Longitude": -14.452362
   },
   {
     "Entity": "Seychelles",
     "Code": "SYC",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0
+    "Share of global plastics emitted to ocean": 0,
+    "Latitude": -4.679574,
+    "Longitude": 55.491977
   },
   {
     "Entity": "Sierra Leone",
     "Code": "SLE",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.370000551
+    "Share of global plastics emitted to ocean": 0.370000551,
+    "Latitude": 8.460555,
+    "Longitude": -11.779889
   },
   {
     "Entity": "Singapore",
     "Code": "SGP",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.016743954
+    "Share of global plastics emitted to ocean": 0.016743954,
+    "Latitude": 1.352083,
+    "Longitude": 103.819836
   },
   {
     "Entity": "Sint Maarten",
     "Code": "",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0
+    "Share of global plastics emitted to ocean": 0,
+    "Latitude": 18.0425,
+    "Longitude": 63.0548
   },
   {
     "Entity": "Slovakia",
     "Code": "SVK",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0
+    "Share of global plastics emitted to ocean": 0,
+    "Latitude": 48.669026,
+    "Longitude": 19.699024
   },
   {
     "Entity": "Slovenia",
     "Code": "SVN",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.00112307
+    "Share of global plastics emitted to ocean": 0.00112307,
+    "Latitude": 46.151241,
+    "Longitude": 14.995463
   },
   {
     "Entity": "Solomon Islands",
     "Code": "SLB",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.010209728
+    "Share of global plastics emitted to ocean": 0.010209728,
+    "Latitude": -9.64571,
+    "Longitude": 160.156194
   },
   {
     "Entity": "Somalia",
     "Code": "SOM",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.000204195
+    "Share of global plastics emitted to ocean": 0.000204195,
+    "Latitude": 5.152149,
+    "Longitude": 46.199616
   },
   {
     "Entity": "South Africa",
     "Code": "ZAF",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.435547007
+    "Share of global plastics emitted to ocean": 0.435547007,
+    "Latitude": -30.559482,
+    "Longitude": 22.937506
   },
   {
     "Entity": "South America",
     "Code": "",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 5.513253248
+    "Share of global plastics emitted to ocean": 5.513253248,
+    "Latitude": -15,
+    "Longitude": -60
   },
   {
     "Entity": "South Korea",
     "Code": "KOR",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.039511648
+    "Share of global plastics emitted to ocean": 0.039511648,
+    "Latitude": 37,
+    "Longitude": 127
   },
   {
     "Entity": "Spain",
     "Code": "ESP",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.023992861
+    "Share of global plastics emitted to ocean": 0.023992861,
+    "Latitude": 40.463667,
+    "Longitude": -3.74922
   },
   {
     "Entity": "Sri Lanka",
     "Code": "LKA",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.985647164
+    "Share of global plastics emitted to ocean": 0.985647164,
+    "Latitude": 7.873054,
+    "Longitude": 80.771797
   },
   {
     "Entity": "Sudan",
     "Code": "SDN",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.010822312
+    "Share of global plastics emitted to ocean": 0.010822312,
+    "Latitude": 12.862807,
+    "Longitude": 30.217636
   },
   {
     "Entity": "Suriname",
     "Code": "SUR",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.171217143
+    "Share of global plastics emitted to ocean": 0.171217143,
+    "Latitude": 3.919305,
+    "Longitude": -56.027783
   },
   {
     "Entity": "Sweden",
     "Code": "SWE",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.003675502
+    "Share of global plastics emitted to ocean": 0.003675502,
+    "Latitude": 60.128161,
+    "Longitude": 18.643501
   },
   {
     "Entity": "Syria",
     "Code": "SYR",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.00449228
+    "Share of global plastics emitted to ocean": 0.00449228,
+    "Latitude": 34.802075,
+    "Longitude": 38.996815
   },
   {
     "Entity": "Taiwan",
     "Code": "TWN",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.054213657
+    "Share of global plastics emitted to ocean": 0.054213657,
+    "Latitude": 23.69781,
+    "Longitude": 120.960515
   },
   {
     "Entity": "Tanzania",
     "Code": "TZA",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.590632779
+    "Share of global plastics emitted to ocean": 0.590632779,
+    "Latitude": -6.369028,
+    "Longitude": 34.888822
   },
   {
     "Entity": "Thailand",
     "Code": "THA",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 2.328430622
+    "Share of global plastics emitted to ocean": 2.328430622,
+    "Latitude": 15.870032,
+    "Longitude": 100.992541
   },
   {
     "Entity": "Togo",
     "Code": "TGO",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.044514415
+    "Share of global plastics emitted to ocean": 0.044514415,
+    "Latitude": 8.619543,
+    "Longitude": 0.824782
   },
   {
     "Entity": "Tonga",
     "Code": "TON",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0
+    "Share of global plastics emitted to ocean": 0,
+    "Latitude": -21.178986,
+    "Longitude": -175.198242
   },
   {
     "Entity": "Trinidad and Tobago",
     "Code": "TTO",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.363160033
+    "Share of global plastics emitted to ocean": 0.363160033,
+    "Latitude": 10.691803,
+    "Longitude": -61.222503
   },
   {
     "Entity": "Tunisia",
     "Code": "TUN",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.07024293
+    "Share of global plastics emitted to ocean": 0.07024293,
+    "Latitude": 33.886917,
+    "Longitude": 9.537499
   },
   {
     "Entity": "Turkey",
     "Code": "TUR",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 1.462951959
+    "Share of global plastics emitted to ocean": 1.462951959,
+    "Latitude": 38.963745,
+    "Longitude": 35.243322
   },
   {
     "Entity": "Ukraine",
     "Code": "UKR",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.087701566
+    "Share of global plastics emitted to ocean": 0.087701566,
+    "Latitude": 48.379433,
+    "Longitude": 31.16558
   },
   {
     "Entity": "United Arab Emirates",
     "Code": "ARE",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.001429362
+    "Share of global plastics emitted to ocean": 0.001429362,
+    "Latitude": 23.424076,
+    "Longitude": 53.847818
   },
   {
     "Entity": "United Kingdom",
     "Code": "GBR",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.07177439
+    "Share of global plastics emitted to ocean": 0.07177439,
+    "Latitude": 55.378051,
+    "Longitude": -3.435973
   },
   {
     "Entity": "United States",
     "Code": "USA",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.248198493
+    "Share of global plastics emitted to ocean": 0.248198493,
+    "Latitude": 37.09024,
+    "Longitude": -95.712891
   },
   {
     "Entity": "Uruguay",
     "Code": "URY",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.101893088
+    "Share of global plastics emitted to ocean": 0.101893088,
+    "Latitude": -32.522779,
+    "Longitude": -55.765835
   },
   {
     "Entity": "Venezuela",
     "Code": "VEN",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.611358527
+    "Share of global plastics emitted to ocean": 0.611358527,
+    "Latitude": 6.42375,
+    "Longitude": -66.58973
   },
   {
     "Entity": "Vietnam",
     "Code": "VNM",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 2.881287406
+    "Share of global plastics emitted to ocean": 2.881287406,
+    "Latitude": 14.058324,
+    "Longitude": 108.277199
   },
   {
     "Entity": "Western Sahara",
     "Code": "ESH",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.003879697
+    "Share of global plastics emitted to ocean": 0.003879697,
+    "Latitude": 24.215527,
+    "Longitude": -12.885834
   },
   {
     "Entity": "Yemen",
     "Code": "YEM",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0.025728515
+    "Share of global plastics emitted to ocean": 0.025728515,
+    "Latitude": 15.552727,
+    "Longitude": 48.516388
   },
   {
     "Entity": "Zimbabwe",
     "Code": "ZWE",
     "Year": 2019,
-    "Share of global plastics emitted to ocean": 0
+    "Share of global plastics emitted to ocean": 0,
+    "Latitude": -19.015438,
+    "Longitude": 29.154857
   }
 ]
