@@ -12,11 +12,11 @@ const Map = () => {
 
   const getMarkerColor = (share) => {
     if (share >= 20) {
-      return "red"; // Blue for high percentage
+      return "red"; // Red for high percentage
     } else if (share >= 5) {
       return "orange"; // Orange for medium percentage
     } else {
-      return "blue"; // Red for low percentage
+      return "blue"; // Blue for low percentage
     }
   };
 
@@ -70,6 +70,10 @@ const Map = () => {
         center={[0, 0]}
         zoom={2}
         scrollWheelZoom={false}
+        maxBounds={[
+          [-90, -180], // Southwest
+          [90, 180],   // Northeast
+        ]}
       >
         <TileLayer
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
