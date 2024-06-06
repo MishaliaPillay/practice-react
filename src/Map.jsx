@@ -10,6 +10,16 @@ const Map = () => {
     setFilter(value);
   };
 
+  const getMarkerColor = (share) => {
+    if (share >= 20) {
+      return "red"; // Blue for high percentage
+    } else if (share >= 5) {
+      return "orange"; // Orange for medium percentage
+    } else {
+      return "blue"; // Red for low percentage
+    }
+  };
+
   const filteredData = () => {
     if (filter === "countries") {
       // Filter data for countries excluding the 7 continents
@@ -69,9 +79,13 @@ const Map = () => {
           <CircleMarker
             key={index}
             center={[entity.Latitude, entity.Longitude]}
-            radius={10}
-            fillColor="blue"
-            color="blue"
+            radius={6}
+            fillColor={getMarkerColor(
+              entity["Share of global plastics emitted to ocean"]
+            )}
+            color={getMarkerColor(
+              entity["Share of global plastics emitted to ocean"]
+            )}
             fillOpacity={0.5}
           >
             <Popup>
